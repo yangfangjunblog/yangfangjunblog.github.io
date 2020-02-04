@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yangfangjunblog.github.io/top/index.html</loc>
+    
+    <lastmod>2020-02-04T12:45:11.187Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yangfangjunblog.github.io/links/index.html</loc>
+    
+    <lastmod>2020-02-04T12:43:20.598Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yangfangjunblog.github.io/about/index.html</loc>
     
-    <lastmod>2020-02-04T12:24:11.806Z</lastmod>
+    <lastmod>2020-02-04T12:27:53.900Z</lastmod>
     
   </url>
   
@@ -33,13 +47,6 @@
     <loc>https://yangfangjunblog.github.io/posts/44661.html</loc>
     
     <lastmod>2020-01-31T08:13:09.049Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yangfangjunblog.github.io/links/index.html</loc>
-    
-    <lastmod>2020-01-09T03:00:09.113Z</lastmod>
     
   </url>
   
